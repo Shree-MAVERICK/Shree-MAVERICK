@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi there 👋🏼
 
-I'm Shree from India, I am a programmer and a fast learner. I do content Design on Development. I really enjoy programming and desigining websites, and also learning languages like python, react, java, HTML5 etc... I also like to read 📖, travel 🛫 and play ⚽.
+I'm Shree from India, I am a programmer and a fast learner. I do  Design and Development. I really enjoy programming and desigining websites, and also learning languages like python, react, java, HTML5 etc... I also like to read 📖, travel 🛫 and play ⚽.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_shree_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shree-surwase-80a412231) 
